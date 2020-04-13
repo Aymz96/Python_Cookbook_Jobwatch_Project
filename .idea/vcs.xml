@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cookbooks/python_job_watch_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cookbooks/python_job_watch_project/files/default/It_Jobs_Watch_Data_Package" vcs="Git" />
+  </component>
+</project>

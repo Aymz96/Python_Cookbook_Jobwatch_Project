@@ -1,0 +1,19 @@
+# Policyfile.rb - Describe how you want Chef Infra Client to build your system.
+#
+# For more information on the Policyfile feature, visit
+# https://docs.chef.io/policyfile.html
+
+# A name that describes what the system you're building with Chef does.
+name 'python_job_watch_project'
+
+# Where to find external cookbooks:
+default_source :supermarket
+
+# run_list: chef-client will run these recipes in the order specified.
+run_list 'python_job_watch_project::default'
+
+# Specify a custom source for a single cookbook:
+cookbook 'python_job_watch_project', path: '.'
+
+# cookbook 'python', '~> 3.8', :supermarket
+# cookbook 'jenkins', '= 1.1.0', :supermarket
