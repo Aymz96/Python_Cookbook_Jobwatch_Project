@@ -1,4 +1,4 @@
-# Sparta Global Python Application Project :banana: :peach: :monkey: :tiger:
+# Sparta Global Python Application Project :banana: :peach: :monkey:
 
 ### Introduction
  - This Project has been set by Sparta Global, The aim of this project is to run the application by create working development, testing and production environment and to build a CI/CD pipeline to move the code through them using Jenkins/slave.
