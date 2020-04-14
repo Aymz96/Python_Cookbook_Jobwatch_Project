@@ -12,4 +12,4 @@
 
 - Embedded the Github PULL_REQUEST plugin to allow PULL_REQUEST's to active the slave node.
 
-- Added a GitHub protected branch for master.
+- Added a GitHub protected branch for master and configured the settings.
