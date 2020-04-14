@@ -1,7 +1,7 @@
-# Sparta Global Python Application Project :banana: :peach: :monkey:
+# Sparta Global Python Application Project :banana: :peach: :monkey: :tiger:
 
-
- - This Project has been set by Sparta Global, The aim of this project is to run the application by create working development, testing and production environment and to build a CI/CD pipeline to move the code through them using Jenkins.
+### Introduction
+ - This Project has been set by Sparta Global, The aim of this project is to run the application by create working development, testing and production environment and to build a CI/CD pipeline to move the code through them using Jenkins/slave.
 
 ### What is Chef?
 - Chef is a company and the name of a configuration management tool written in Ruby and Erlang. It uses a pure-Ruby, domain-specific language for writing system configuration "recipes".
