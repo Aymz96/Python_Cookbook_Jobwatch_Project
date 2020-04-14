@@ -10,4 +10,4 @@
 
 - I then created a slave node agent in Jenkins that executes the CI for the project.
 
-- Lastly i embedded the Github PULL_REQUEST plugin to allow PULL_REQUEST's to active the slave node.
+- Lastly I embedded the Github PULL_REQUEST plugin to allow PULL_REQUEST's to active the slave node.
